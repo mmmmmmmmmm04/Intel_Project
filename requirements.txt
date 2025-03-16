@@ -2,3 +2,8 @@ matplotlib
 tensorflow
 seaborn
 scikit-learn
+streamlit
+xgboost
+pandas
+numpy
+plotly
